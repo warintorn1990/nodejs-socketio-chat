@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-socketio-chat",
+  "version": "1.0.0",
+  "description": "nodejs-socketio-chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warintorn1990/nodejs-socketio-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warintorn1990/nodejs-socketio-chat/issues"
+  },
+  "homepage": "https://github.com/warintorn1990/nodejs-socketio-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
